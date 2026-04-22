@@ -1,0 +1,4 @@
+Exception occured while clicking 'Search': Error: locator.click: Unexpected token "=" while parsing css selector "#search button[]type='button']". Did you mean to CSS.escape it?
+Call log:
+  - waiting for #search button[]type='button']
+
